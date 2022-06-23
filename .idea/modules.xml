@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/srcConcurrency/Concurrency/concurrency.iml" filepath="$PROJECT_DIR$/srcConcurrency/Concurrency/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srcDP2/design_pattern.iml" filepath="$PROJECT_DIR$/srcDP2/design_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dpsrc_2009-10-10-windows.iml" filepath="$PROJECT_DIR$/.idea/dpsrc_2009-10-10-windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srcConcurrency/HighConcurrency/highconcurrency.iml" filepath="$PROJECT_DIR$/srcConcurrency/HighConcurrency/highconcurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/self_project/self_project.iml" filepath="$PROJECT_DIR$/self_project/self_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srcSpring/spring-annotation/spring-annotation.iml" filepath="$PROJECT_DIR$/srcSpring/spring-annotation/spring-annotation.iml" />
+    </modules>
+  </component>
+</project>

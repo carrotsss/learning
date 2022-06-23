@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="highconcurrency:war">
+    <output-path>$PROJECT_DIR$/srcConcurrency/HighConcurrency/target</output-path>
+    <root id="archive" name="highconcurrency-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="highconcurrency:war exploded" />
+    </root>
+  </artifact>
+</component>
